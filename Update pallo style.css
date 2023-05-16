@@ -1,12 +1,6 @@
-div{
-    border-style: medium;
-    border-width: medium;          
-}
-
 h1{
- text-align: center;
+    text-align: center;
 }
 p{
- text-align: center;
- font-size: large;
+    text-align: right;
 }
