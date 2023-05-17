@@ -1,0 +1,32 @@
+Szalagcím: Valami-e, a semmi?
+
+"Logikai bukkanó, vagy csupán nyelvi probléma?"
+
+Viszonlag gyakran  felvetett kérdés a valami és semmi definiálása, értelmezése.
+A kérdés így szól: A magyar nyelvben lévő kifejezés amely a hétköznapi életben használatos azaz "Nincs semmi" első hallásra egy teljesen átlagos,
+normális kifejezésnek hangzik amellyel az ember nem igazán foglalkozna.
+Igaz, hogy manapság az átlag, dolgos ember nem igazán vesz észre problémát ezzel a mondattal/kifejezéssel,
+de addig a gyerekek és egyéb felnőttek, akik megtehetik hogy "hülyeségen" elmélkedjenek már tbbször is feltették a kérdést
+"Lehet-e valami a semmi?". Hiszen maga a kifejezés is a semmi hiányára utal. Viszont itt ütközünk logikai bukkanóba, hiszen ha a semmi hiányzik,
+akkor ott van valami. Az a valami pedig a semmi. Ez már több személynek is megfordult gondolatai között,
+több humoros feldolgozás is készült belőle többek között a leghíresebb Laár András "Besenyő Pista bácsi" személyében vetette fel (link).
+
+(hivatkozás) Semmi szó:
+
+	semmi (névmás, főnév)
+	A létező ellentéte és hiánya; a nem létező dolog
+
+(hivatkozás) Valami szó:
+
+	valami (névmás, főnév)
+	Egy meg nem határozott dolog; nem ismert vagy nem megnevezett dolog; mindegy, hogy melyik dolog.
+
+
+Továbbgondolva a semmi nem valami, hiszen az annak ellentéte. De ha a semmi nincs, akkor van valami, az pedig a semmi.
+Tehát a semmi az egyszerre: valami, nem valami, semmi és nem semmi.
+
+Természetesen ez ugyanúgy véghezvihető a "valami"-vel is. Valami is csak akkor van ha a semmi nincs tehát a valami van.
+De mivel a semmi valami, a valami úgyszintén van és nincs egyszerre.
+
+Véglegesen ez a már-már paradoxon szerű logikai menet lezárható azzal, hogy a magyar nyelvben a semmi első sorban a valami hiányát jelöli,
+így a logika megszakad ott hogy a "semmi" kifejezés nem egy létezésben lévő dolgot jelöl.
